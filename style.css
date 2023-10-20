@@ -1,7 +1,15 @@
 #Web {
-    font-size: 200px;
+    font-size: 100px;
     text-align: center;
 }
 body {
-    background-color: rgb(0, 132, 255);
+    background-color: rgb(184, 193, 201);
+}
+.Size {
+    font-size: 50px
+}
+.Box{
+    border: 200px;
+    margin-top: 100px;
+    padding-right: 100px;
 }
